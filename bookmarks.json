@@ -803,10 +803,17 @@
     {
       "favicon": "https://static.char123.com/images/favicon.ico",
       "group": "group_1773035376559",
+      "id": "bookmark_100_1783303609396",
       "timestamp": "2026-07-05T14:48:26.441Z",
       "title": "Electron 创建和管理窗口 | 菜鸟教程",
-      "url": "https://www.runoob.com/electron/electron-windows.html",
-      "id": "bookmark_100_1783303609396"
+      "url": "https://www.runoob.com/electron/electron-windows.html"
+    },
+    {
+      "url": "chrome-extension://fjjeijcmbibkdicggbgabliganmdjmgm/manage.html",
+      "title": "MarkSyncy - 收藏管理",
+      "timestamp": "2026-07-06T02:07:15.441Z",
+      "favicon": "",
+      "group": "folder_1779201095904_4sh3gz72w"
     }
   ],
   "groups": [
@@ -952,6 +959,6 @@
       "parentFolder": "default"
     }
   ],
-  "syncTime": "2026-07-06T02:07:03.598Z",
+  "syncTime": "2026-07-06T02:07:15.459Z",
   "version": "1.0"
 }
