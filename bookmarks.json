@@ -811,9 +811,9 @@
     {
       "url": "chrome-extension://fjjeijcmbibkdicggbgabliganmdjmgm/manage.html",
       "title": "MarkSyncy - 收藏管理",
-      "timestamp": "2026-07-06T02:07:18.554Z",
+      "timestamp": "2026-07-06T02:07:25.673Z",
       "favicon": "",
-      "group": "folder_1779201095904_4sh3gz72w"
+      "group": "group_1769414030740"
     }
   ],
   "groups": [
@@ -959,6 +959,6 @@
       "parentFolder": "default"
     }
   ],
-  "syncTime": "2026-07-06T02:07:18.571Z",
+  "syncTime": "2026-07-06T02:07:25.698Z",
   "version": "1.0"
 }
