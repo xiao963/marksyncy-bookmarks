@@ -801,11 +801,18 @@
       "url": "https://zhuanlan.zhihu.com/p/1942000485826532348"
     },
     {
-      "url": "https://www.runoob.com/electron/electron-windows.html",
-      "title": "Electron 创建和管理窗口 | 菜鸟教程",
-      "timestamp": "2026-07-05T14:48:26.441Z",
       "favicon": "https://static.char123.com/images/favicon.ico",
-      "group": "group_1773035376559"
+      "group": "group_1773035376559",
+      "timestamp": "2026-07-05T14:48:26.441Z",
+      "title": "Electron 创建和管理窗口 | 菜鸟教程",
+      "url": "https://www.runoob.com/electron/electron-windows.html"
+    },
+    {
+      "url": "https://www.gamer520.com/",
+      "title": "Switch520-Gamer520",
+      "timestamp": "2026-07-06T02:06:29.845Z",
+      "favicon": "https://v1.imagehub.cc/images/2026/04/21/1210e985ce56b56f20e06094f6817d28.png",
+      "group": "default"
     }
   ],
   "groups": [
@@ -951,6 +958,6 @@
       "parentFolder": "default"
     }
   ],
-  "syncTime": "2026-07-05T14:48:28.430Z",
+  "syncTime": "2026-07-06T02:06:31.141Z",
   "version": "1.0"
 }
